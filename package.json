@@ -1,0 +1,33 @@
+{
+  "name": "gdax-ext",
+  "version": "0.1.0",
+  "description": "extending the gdax client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Flippo24/gdax-ext.git"
+  },
+  "keywords": [
+    "API",
+    "bitcoin",
+    "coinbase",
+    "exchange",
+    "real-time",
+    "trading",
+    "websockets",
+    "gdax",
+    "ethereum"
+  ],
+  "author": "Flippo24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flippo24/gdax-ext/issues"
+  },
+  "homepage": "https://github.com/flippo24/gdax-ext#readme",
+  "dependencies": {
+    "gdax": "^0.8.0"
+  }
+}
