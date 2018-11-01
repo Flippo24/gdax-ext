@@ -1,6 +1,6 @@
 {
   "name": "gdax-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extending the gdax client",
   "main": "index.js",
   "scripts": {
