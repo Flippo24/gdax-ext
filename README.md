@@ -108,7 +108,9 @@ While productID has to be the name of the productID you specified.
 ###  Get level2 orderbooks syncronisation finished and orderbook updated.
 
 ```js
-const productIDs = ['BTC-USD', 'BTC-ETH'];
+const Gdax = require('gdax-ext');
+
+const productIDs = ['ETH-BTC', 'BTC-USD'];
 const orderbookSync = new Gdax.L2bookSync(productIDs);
 
 //sync finished for every books
